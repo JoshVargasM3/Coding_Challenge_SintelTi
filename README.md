@@ -4,7 +4,7 @@
   - Desarrollo de una programa capaz de detectar palindromos y devolver numeros primos.  
 
 <p align="center" dir="auto">
-<img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/SintelTi%20Program/Images/Captura_Programa.JPG" width="100%">
+<img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/SintelTi%20Program/Images/logo-sintelti.png" width="80%">
 </p>
 
 ## Descripción
@@ -19,8 +19,10 @@
 
 Para probar la aplicación da clic [aquí.](https://github.com/JoshVargasM3/Coding_Challenge_intelTi/blob/main/CHALLENGE_SintelTi.py)
 <p align="center" dir="auto">
-  
 
+<img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/SintelTi%20Program/Images/Captura_Programa.JPG" width="100%">
+<br>
+<br>
 <img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/SintelTi%20Program/Images/Captura_Programa2.JPG" width="100%">
 </p>
 
