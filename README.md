@@ -1,7 +1,7 @@
 # Coding Challenge SintelTi
 
 ### Desafios de programacion de la Empresa SintelTi:
-  - Desarrollo de una programa capaz de detectar palindromos y devolver numeros primos.  
+  - Desarrollo de un programa capaz de detectar palindromos y devolver numeros primos.  
 
 <p align="center" dir="auto">
 <img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/SintelTi%20Program/Images/logo-sintelti.png" width="80%">
