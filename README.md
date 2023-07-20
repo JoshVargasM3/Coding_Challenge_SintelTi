@@ -17,7 +17,7 @@
 
 ## Uso
 
-Para probar la aplicación da clic [aquí.](https://github.com/JoshVargasM3/Coding_Challenge_intelTi/blob/main/CHALLENGE_SintelTi.py)
+Para probar la aplicación da clic [aquí.](https://replit.com/@JoshVargasM3/CodingChallengeSintelTi#main.py)
 <p align="center" dir="auto">
 
 <img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/SintelTi%20Program/Images/Captura_Programa.JPG" width="90%">
