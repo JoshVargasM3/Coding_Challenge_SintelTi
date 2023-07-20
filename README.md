@@ -27,9 +27,18 @@ Para probar la aplicación da clic en:
 <img align="center" src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/SintelTi%20Program/Images/Captura_Programa2.JPG" width="90%">
 </p>
 
-### Aplicación
+## Aplicación
+Estableci dos opciones para probar el programa:
 
-Después de descargar el proyecto, puede abrir el "**archivo ejecutable: CHALLENGE_SintelTi.py**" con `VS Code`. Para hacer esto, en la pantalla de inicio, haga clic en:
+### OPCION 1:
+
+Primero dar clic en boton **PROBAR APP**
+
+- Le direccionara a un IDE en la nube, una vez dentro del IDE simplemente de clic en el boton `Run` y el programa será ejecutado en una consola virtual.
+
+### OPCION 2:
+
+Puede descargar el proyecto, y proceder a abrir el "**archivo ejecutable: CHALLENGE_SintelTi.py**" con `VS Code`. Para hacer esto, en la pantalla de inicio, haga clic en:
 
 - Abrir un proyecto existente (O alguna opción similar);
 
